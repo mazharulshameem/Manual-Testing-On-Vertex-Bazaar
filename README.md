@@ -8,7 +8,7 @@ The manual testing project for [Vertex-Bazaar](https://vertexbazaar.com/)
  functionality, usability, and security. The mindmap visualized test coverage. The matrix summarized test results. Bug reports detailed defects, their severity, and steps to reproduce. Overall, the project aimed for quality and reliability.
   
   
-<h2>✨Features</h2>
+# ✨Features
 Here're some of the project's best features:
 
 ✅   Test Plan
@@ -18,7 +18,7 @@ Here're some of the project's best features:
 ✅   Summary Report
 ✅   Test Matrix
 
-<h2>🗂️ Project Screenshot:</h2>
+# 🗂️ Project Screenshot
 
  ## 1. Test Plan
 <img src="https://i.ibb.co/S6btJdg/TestPlan.png" alt="project-screenshot" width="500" height="400/">
@@ -39,7 +39,7 @@ Here're some of the project's best features:
 <img src="https://i.ibb.co/C2Jnsw6/Test-Matrix.png" alt="project-screenshot" width="500" height="400/">
   
   
-<h2>🛠️Technologies used in the project: </h2>
+# 🛠️Technologies
 
 ✔️   Microsoft Excel
 ✔️   Xmind
