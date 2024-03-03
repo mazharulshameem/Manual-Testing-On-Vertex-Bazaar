@@ -1,5 +1,7 @@
 
-<p align="center"><img src="https://socialify.git.ci/mazharulshameem/Manual-Testing-On-Vertex-Bazaar/image?font=Inter&forks=1&issues=1&language=1&name=1&pattern=Solid&stargazers=1&theme=Dark" alt="Manual-Testing-On-Vertex-Bazaar" width="640" height="320" /></p>
+<h1 id="title" align="center">Manual Testing On Vertex Bazaar</h1>
+
+<p align="center"><img src="https://socialify.git.ci/mazharulshameem/Manual-Testing-On-Vertex-Bazaar/image?font=Inter&issues=1&language=1&name=1&owner=1&pattern=Solid&stargazers=1&theme=Dark" alt="Manual-Testing-On-Vertex-Bazaar" width="640" height="320" /></p>
 
 The manual testing project for [Vertex-Bazaar](https://vertexbazaar.com/)
  registration and login involved creating a detailed plan, test cases, mindmap, matrix, 
