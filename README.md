@@ -20,22 +20,22 @@ Here're some of the project's best features:
 
 <h2>🗂️ Project Screenshot:</h2>
 
- ##1. Test Plan
+ ## 1. Test Plan
 <img src="https://i.ibb.co/S6btJdg/TestPlan.png" alt="project-screenshot" width="500" height="400/">
 
- ##2. Test Cases
+ ## 2. Test Cases
 <img src="https://i.ibb.co/JHP7pnP/Test-Cases.png" alt="project-screenshot" width="500" height="400/">
 
-##3. Mind Map
+## 3. Mind Map
 <img src="https://i.ibb.co/bWnCb73/Mind-Map.png" alt="project-screenshot" width="500" height="400/">
 
-##4. Bug Report
+## 4. Bug Report
 <img src="https://i.ibb.co/6DYcFYq/Bug-Report.png" alt="project-screenshot" width="500" height="400/">
 
-##5. Summary Report
+## 5. Summary Report
 <img src="https://i.ibb.co/6XFWMLt/Summary-Report.png" alt="project-screenshot" width="500" height="400/">
 
-##6. Test Matrix
+## 6. Test Matrix
 <img src="https://i.ibb.co/C2Jnsw6/Test-Matrix.png" alt="project-screenshot" width="500" height="400/">
   
   
