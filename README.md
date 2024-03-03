@@ -2,10 +2,10 @@
 
 <p align="center"><img src="https://socialify.git.ci/mazharulshameem/Manual-Testing-On-Vertex-Bazaar/image?font=Inter&issues=1&language=1&name=1&owner=1&pattern=Solid&stargazers=1&theme=Dark" alt="Manual-Testing-On-Vertex-Bazaar" width="640" height="320" /></p>
 
-<p id="description">The manual testing project for vertexbazaar.com 
-    registration and login involved creating a detailed plan, test cases, mindmap, matrix, 
-    and bug report. The plan outlined objectives, scope, and resources. Test cases checked 
-    functionality, usability, and security. The mindmap visualized test coverage. The matrix summarized test results. Bug reports detailed defects, their severity, and steps to reproduce. Overall, the project aimed for quality and reliability.</p>
+The manual testing project for [Vertex-Bazaar](https://vertexbazaar.com//)
+ registration and login involved creating a detailed plan, test cases, mindmap, matrix, 
+ and bug report. The plan outlined objectives, scope, and resources. Test cases checked 
+ functionality, usability, and security. The mindmap visualized test coverage. The matrix summarized test results. Bug reports detailed defects, their severity, and steps to reproduce. Overall, the project aimed for quality and reliability.
   
   
 <h2>✨Features</h2>
